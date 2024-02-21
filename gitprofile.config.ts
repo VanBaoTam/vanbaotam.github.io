@@ -63,7 +63,6 @@ const CONFIG = {
     'JavaScript',
     'TypeScript',
     'React.js',
-    'Redux',
     'Node.js',
     'Express',
     'MySQL',
@@ -71,8 +70,6 @@ const CONFIG = {
     'Git',
     'HTML',
     'CSS',
-    'Tailwind',
-    'Material UI',
   ],
   experiences: [
   
