@@ -57,7 +57,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '.src/data/CV Văn Bảo Tâm - CV Intern Front-end Web-TopCV.vn.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'CV Văn Bảo Tâm - CV Intern Front-end Web-TopCV.vn.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JavaScript',
