@@ -57,7 +57,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/11XCAc94_AqIY9UU8bev5P_9W092c4smj/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      '.src/data/CV Văn Bảo Tâm - CV Intern Front-end Web-TopCV.vn.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JavaScript',
