@@ -57,7 +57,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '[CV] Van-Bao-Tam_Front-end-Web-Developer.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/VanBaoTam/vanbaotam.github.io/blob/main/src/data/%5BCV%5D%20Van-Bao-Tam_Front-end-Web-Developer.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'TypeScript',
