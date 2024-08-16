@@ -57,29 +57,37 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'CV Văn Bảo Tâm - CV Intern Front-end Web-TopCV.vn.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '[CV] Van-Bao-Tam_Front-end-Web-Developer.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'JavaScript',
     'TypeScript',
+    'JavaScript',
     'React.js',
+    'Next.js',
     'Node.js',
     'Express',
     'MySQL',
     'PostgreSQL',
     'Git',
-    'HTML',
-    'CSS',
+    'Github',
+    'HTML | CSS',
   ],
   experiences: [
-  
+    {
+      company: 'The Ark Studio',
+      position: 'Front-end Web Developer Internship',
+      from: 'March 2024',
+      to: 'June 2024',
+      companyLink: 'https://www.theark.studio/',
+    },
     {
       company: '',
       position: 'Freelancer',
       from: 'April 2023',
-      to: 'November 2023',
+      to: 'December 2023',
       companyLink: '',
-    },
+    }
+   
   ],
   certifications: [
     
@@ -87,7 +95,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'Saigon Technology University',
-      degree: '',
+      degree: 'Bachelor',
       from: '2020',
       to: 'Present',
     },
@@ -169,11 +177,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+  footer: ``,
 
   enablePWA: false,
 };
