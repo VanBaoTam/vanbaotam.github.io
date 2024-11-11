@@ -83,12 +83,11 @@ const AvatarCard: React.FC<AvatarCardProps> = ({
             </div>
           ) : (
             <a
-              href={resumeFileUrl}
-              target="_blank"
-              className="btn btn-outline btn-sm text-xs mt-6 opacity-50"
-              download = "[CV]Front-end-Developer_Van_Bao_Tam.pdf"
-              rel="noreferrer"
-            >
+      href={resumeFileUrl}
+      target="_blank"       // Opens the PDF in a new tab for preview
+      className="btn btn-outline btn-sm text-xs mt-6 opacity-50"
+      rel="noreferrer"
+    >
               Download Resume
             </a>
           ))}
