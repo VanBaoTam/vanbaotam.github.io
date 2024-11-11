@@ -95,9 +95,9 @@ const CONFIG = {
   educations: [
     {
       institution: 'Saigon Technology University',
-      degree: 'Bachelor',
-      from: '2020',
-      to: 'Present',
+      degree: 'Bachelor of Engineer',
+      from: 'October 2020',
+      to: 'November 2024',
     },
   
   ],
