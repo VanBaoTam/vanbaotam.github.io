@@ -68,11 +68,19 @@ const CONFIG = {
     'Express',
     'MySQL',
     'PostgreSQL',
+    'MongoDB',
     'Git',
     'Github',
     'HTML | CSS',
   ],
   experiences: [
+    {
+      company: 'MangoAds',
+      position: 'Front-end Web Developer',
+      from: 'December 2024',
+      to: 'February 2025',
+      companyLink: 'https://mangoads.vn/',
+    },
     {
       company: 'The Ark Studio',
       position: 'Front-end Web Developer Internship',
@@ -95,7 +103,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'Saigon Technology University',
-      degree: 'Bachelor of Engineer',
+      degree: 'Information Technology - Bachelor of Engineer - Salutatorian',
       from: 'October 2020',
       to: 'November 2024',
     },
